@@ -1,0 +1,20 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name":"Julio"
+        },
+        {
+            "id":2,
+            "name":"Marcos"
+        },
+        {
+            "id":3,
+            "name":"Silva"
+        },
+        {
+            "id":4,
+            "name":"Paulo"
+        }
+    ]
+}
